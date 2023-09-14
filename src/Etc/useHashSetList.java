@@ -3,7 +3,7 @@ package Etc;
 import java.util.HashSet;
 
 public class useHashSetList {
-    //배열 공부
+
     public static void main(String[] args)
     {
         HashSet<Integer> num = new HashSet<>();
